@@ -108,12 +108,16 @@ p {
 }
 #cuerpo{
 	border:1px solid #028279;
-	background-color: #f4eec9;
-	margin-left: 10px;
-  margin-right: 10px;
+	background: #ffffff;
+background: radial-gradient(circle farthest-corner at center center, #ffffff 1%, #ffde82 150%);
+background: -webkit-radial-gradient(circle farthest-corner at center center, #ffffff 1%, #ffde82 150%);
+background: -moz-radial-gradient(circle farthest-corner at center center, #ffffff 1%, #ffde82 150%);
+	margin-left: 5px;
+  margin-right: 5px;
 	width: auto;
 	height: auto;
 	position: relative;
+    
 
 	}
 }
