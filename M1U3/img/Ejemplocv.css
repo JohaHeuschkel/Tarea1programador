@@ -1,0 +1,119 @@
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    background-color: rgb(8, 149, 102);
+    font-family: cursive;
+    color: #ffffff;
+    font-weight: bolder;
+    text-shadow: 3px 2px 2px rgb(2, 65, 53);
+}
+
+h2 {
+    color: rgb(252, 252, 252);
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    background-color: rgb(7, 149, 102);
+
+}
+
+h3 {
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 20px;
+
+}
+
+p {
+    font-family: ;
+    color: midnightblue;
+    line-height: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    color: #000000;
+    font-weight: bold;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: none;
+}
+.imagen { 
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+.videos{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.destacados {
+    color: darkblue;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.destacados2 {
+    color: rgb(11, 94, 145);
+    font-size: 25px;
+    font-style: normal;
+}
+.destacadoform {
+    color: rgb(1, 29, 46);
+    font-size: 15px;
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.destacadoform{ 
+    font-size: 25px;
+    color: rgb(3, 110, 122);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+}
+#caja{
+    background-color: rgb(7, 149, 102);
+    width: auto
+    height: auto;
+    padding: 10px;
+ border:2px solid rgb(2, 76, 51);
+ margin-left: auto;
+  margin-right: auto;
+}
+#caja p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: rgb(1, 29, 30);
+}
+#tituloform { 
+    background-color: rgb(7, 149, 102);
+    width: auto
+    height: 26px;
+    padding: 10px;
+ border:2px solid rgb(2, 76, 51);
+ margin-left: auto;
+  margin-right: auto;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 3px 2px 2px rgb(255, 255, 255);
+}
+#cuerpo{
+	border:1px solid #028279;
+	background-color: #f4eec9;
+	margin-left: 10px;
+  margin-right: 10px;
+	width: auto;
+	height: auto;
+	position: relative;
+
+	}
+}
